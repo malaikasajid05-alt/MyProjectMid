@@ -1,7 +1,1 @@
-print("Hello from Colab Git")
-print("Feature1 change")
-print("Changings Feature1")
-print("Changings Feature1")
-print("Changings Feature1")
-print("Changings Feature1")
 print("Changings2 Feature1")
